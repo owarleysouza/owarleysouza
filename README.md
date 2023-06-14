@@ -1,4 +1,4 @@
-<img src=".github/developer.png" width="290px" align="right">
+<img src="developer.png" width="290px" align="right">
 
 # Hi there, I'm Warley Souza 😁
 
