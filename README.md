@@ -1,19 +1,16 @@
 <img src="developer.png" width="290px" align="right">
 
-# Hi there, I'm Warley Souza 😁
+# Hi there, I'm Warley Soares 😁
 
 
-👨‍🎓 I'm a graduate in **Information Systems** at [CIN UFPE](https://portal.cin.ufpe.br/).
+👨‍🎓 I have a degree in **Information Systems** at [CIN UFPE](https://portal.cin.ufpe.br/).
 
 
-👨‍💻 Studying: **VueJS**.
+👨‍💻 Studying: **ReactJS**.
 
-🎒 Main Tools: **Visual Studio Code**, **Git**, **VueJS**...
+🎒 Main Tools: **Visual Studio Code**, **Git**, **VueJS**, **ReactJS**...
 
-🤩 Areas of Interest: **Computer programming**, **Design**, **Communication**...
-
-🙋‍♂️ Social Networks: [Instagram](https://www.instagram.com/warleys11/) and [Medium](https://medium.com/@warleysoares35).
-  
+🤩 Areas of Interest: **Programming**, **Design**, **Communication**, **Neuroscience**...
   
 ---  
 <center>
